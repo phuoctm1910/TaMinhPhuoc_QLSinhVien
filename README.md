@@ -1,18 +1,16 @@
 # TaMinhPhuoc_QLSinhVien
-Được, dưới đây là một mẫu README cho dự án ASP.NET Core MVC sử dụng MySQL làm DB và có 2 trang 1 trang login và 1 trang CRUD quản lý sinh viên:
+## Tên dự án:
 
-## Tên dự án
+Dự án quản lý sinh viên
 
-**Dự án quản lý sinh viên**
-
-## Mục đích
+## Mục đích:
 
 Dự án này được tạo ra để quản lý thông tin sinh viên. Dự án bao gồm 2 trang chính:
 
 * Trang đăng nhập: Cho phép người dùng đăng nhập vào hệ thống
 * Trang quản lý sinh viên: Cho phép người dùng thêm, sửa, xóa và xem thông tin sinh viên
 
-## Chức năng
+## Chức năng:
 
 Dự án có các chức năng sau:
 
@@ -22,7 +20,7 @@ Dự án có các chức năng sau:
 * Xóa sinh viên: Người dùng có thể xóa thông tin sinh viên đã có
 * Xem sinh viên: Người dùng có thể xem danh sách tất cả sinh viên
 
-## Yêu cầu
+## Yêu cầu:
 
 Dự án yêu cầu các yêu cầu sau để chạy:
 
@@ -30,7 +28,7 @@ Dự án yêu cầu các yêu cầu sau để chạy:
 * Phiên bản .NET Core: 6.0 trở lên
 * Thư viện MySQL: mysql.data.dll
 
-## Cài đặt
+## Cài đặt:
 
 Để cài đặt dự án, bạn thực hiện các bước sau:
 
@@ -48,7 +46,7 @@ dotnet restore
 dotnet run
 ```
 
-## Sử dụng
+## Sử dụng:
 
 Để sử dụng dự án, bạn thực hiện các bước sau:
 
@@ -57,7 +55,7 @@ dotnet run
 3. Chọn trang quản lý sinh viên
 4. Sử dụng các chức năng trên trang để quản lý thông tin sinh viên
 
-## Cộng tác
+## Cộng tác:
 
 Để cộng tác với dự án, bạn thực hiện các bước sau:
 
@@ -66,12 +64,11 @@ dotnet run
 3. Thực hiện các thay đổi và commit chúng vào branch
 4. Mở một pull request để hợp nhất các thay đổi vào nhánh chính của dự án
 
-## Thay đổi
+## Thay đổi:
 
 Lịch sử thay đổi của dự án được lưu trữ trên GitHub. Bạn có thể xem lịch sử thay đổi tại địa chỉ https://github.com/phuoctm1910/TaMinhPhuoc_QLSinhVien/commits
 
-## Liên kết
+## Liên kết:
 
-* Tài liệu: https://github.com/phuoctm1910/TaMinhPhuoc_QLSinhVien/wiki
 * Hướng dẫn sử dụng: https://github.com/phuoctm1910/TaMinhPhuoc_QLSinhVien/README.md
 
