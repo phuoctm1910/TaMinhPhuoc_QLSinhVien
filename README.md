@@ -1,7 +1,7 @@
 # TaMinhPhuoc_QLSinhVien
 ## Tên dự án:
 
-Dự án quản lý sinh viên
+* Dự án quản lý sinh viên
 
 ## Mục đích:
 
@@ -32,43 +32,28 @@ Dự án yêu cầu các yêu cầu sau để chạy:
 
 Để cài đặt dự án, bạn thực hiện các bước sau:
 
-1. Tải xuống và giải nén dự án
-2. Mở thư mục dự án trong Visual Studio
-3. Chạy lệnh sau để cài đặt các thư viện cần thiết:
-
-```
-dotnet restore
-```
-
-4. Chạy lệnh sau để khởi chạy dự án:
-
-```
-dotnet run
-```
+1. Tải xuống và cài đặt MySQL.
+2. Tải xuống và giải nén dự án.
+3. Chạy file cơ sở dữ liệu
+4. Mở thư mục dự án trong Visual Studio.
+5. Bấm nút Start để chạy dự án.
 
 ## Sử dụng:
 
 Để sử dụng dự án, bạn thực hiện các bước sau:
 
-1. Mở Visual Studio và bấm nút Start 
-2. Nhập tên người dùng và mật khẩu để đăng nhập
-3. Chọn trang quản lý sinh viên
-4. Sử dụng các chức năng trên trang để quản lý thông tin sinh viên
+1. Mở Visual Studio và bấm nút Start.
+2. Nhập tên người dùng và mật khẩu để đăng nhập.
+3. Sử dụng các chức năng trên trang để quản lý thông tin sinh viên.
 
 ## Cộng tác:
 
-Để cộng tác với dự án, bạn thực hiện các bước sau:
-
-1. Tạo một fork của dự án trên GitHub
-2. Tạo một branch mới để thực hiện các thay đổi
-3. Thực hiện các thay đổi và commit chúng vào branch
-4. Mở một pull request để hợp nhất các thay đổi vào nhánh chính của dự án
+* Để cộng tác với dự án này, bạn có thể sử dụng Git.
 
 ## Thay đổi:
 
-Lịch sử thay đổi của dự án được lưu trữ trên GitHub. Bạn có thể xem lịch sử thay đổi tại địa chỉ https://github.com/phuoctm1910/TaMinhPhuoc_QLSinhVien/commits
+* Lịch sử thay đổi của dự án được lưu trữ trên GitHub. Bạn có thể xem lịch sử thay đổi tại địa chỉ https://github.com/phuoctm1910/TaMinhPhuoc_QLSinhVien/commits
 
 ## Liên kết:
 
 * Hướng dẫn sử dụng: https://github.com/phuoctm1910/TaMinhPhuoc_QLSinhVien/README.md
-
